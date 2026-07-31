@@ -171,7 +171,7 @@ public class Digits {
         System.out.println("Sum of the first and last digit of the given number is:" + (firstDigit + lastDigit));
     }
 
-    public static void main(String[] args) {
+    public static void main(Main[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number:");
         int n = sc.nextInt();

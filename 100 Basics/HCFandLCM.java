@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class HCFandLCM {
-    public static void main (String[] args) {
+    public static void main (Main[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter first numbers:");
         int num1 = sc.nextInt();

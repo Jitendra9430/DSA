@@ -72,7 +72,7 @@ public class Loops {
             System.out.println(n + "x" + i + "=" + (n*i));
         }
     }
-    public static void main (String[] args) {
+    public static void main (Main[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number:");
         int n = sc.nextInt();

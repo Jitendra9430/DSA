@@ -61,7 +61,7 @@ public class TwoSum {
         return new int[]{-1, -1};
     }
 
-    public static void main(String args[]) {
+    public static void main(Main args[]) {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter the size of array: ");

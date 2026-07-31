@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Prime {
-    public static void main(String[] args) {
+    public static void main(Main[] args) {
         // int num = 29;
         // boolean isPrime = true;
         // for(int i=2; i<= num/2; i++){

@@ -51,7 +51,7 @@ public class Patterns {
         }
     }
     
-    public static void main (String[] args) {
+    public static void main (Main[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter a number");
         int n = sc.nextInt();

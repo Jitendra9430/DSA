@@ -32,7 +32,7 @@ public class AlternateSign {
         }
     }
 
-    public static void main(String[] args) {
+    public static void main(Main[] args) {
         int[] arr = {1, 2, -4, -5, 3, 4};
 
         rearrange(arr);

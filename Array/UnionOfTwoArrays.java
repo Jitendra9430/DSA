@@ -58,7 +58,7 @@ public class UnionOfTwoArrays {
         return result;
     }
 
-    public static void main (String [] args){
+    public static void main (Main [] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the size of first array:");
         int n = sc.nextInt();

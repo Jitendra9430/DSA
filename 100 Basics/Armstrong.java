@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class Armstrong {
-    public static void main(String[] args){
+    public static void main(Main[] args){
         // int digits=0, remainder, result = 0 , originalNum = 0;
         // Scanner sc = new Scanner(System.in);
         // System.out.println("Enter the number");

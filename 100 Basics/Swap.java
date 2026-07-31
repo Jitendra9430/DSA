@@ -16,7 +16,7 @@ public class Swap {
         int avg = (a+b+c)/3;
         System.out.println("Average of marks is: " + avg);
     }
-    public static void main (String[] args){
+    public static void main (Main[] args){
         int a = 10;
         int b = 5;
        // System.out.println("Before swapping" + " a =" +a + " and b =" +b);
