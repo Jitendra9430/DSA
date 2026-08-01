@@ -110,6 +110,12 @@ public class Main{
         Arrays.sort(ch1);
         Arrays.sort(ch2);
 
+        if(Arrays.equals(ch1, ch2)){
+            System.out.println("Strings are anagrams");
+        } else {
+            System.out.println("Strings are not anagrams");
+        }
+
     }
 
 
